@@ -26,8 +26,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/JAYSONRK/Single-price-grid-component)
-- Live Site URL: [live site URL](https://jaysonrk.github.io/Single-price-grid-component/)
+- Solution URL: [solution URL](https://github.com/JAYSONRK/Product-preview-card-component)
+- Live Site URL: [live site URL](https://jaysonrk.github.io/Product-preview-card-component/)
 
 
 ### Built with
