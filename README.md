@@ -10,6 +10,10 @@
   - #built-with
   - #author
 
+## overview
+
+This is a beginners project with basic html and css.
+
 
 ## features
 
